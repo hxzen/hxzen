@@ -1,3 +1,3 @@
-´´´python
+```python
 print("fuck you")
-´´´
+```
