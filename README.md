@@ -1,3 +1,3 @@
 ```python
-print("fuck you")
+print("six seven")
 ```
